@@ -1,8 +1,22 @@
 body {
     background-color: #fff;
     color: rgb(255, 3, 3);
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
    font-size: 40px; 
+}
+
+.wrapper {
+   width: 100%;
+}
+
+.wrapper nav ul {
+    list-style: none;
+}
+
+.wrapper nav ul li {
+   display: flex;
 }
