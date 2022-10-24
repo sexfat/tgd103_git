@@ -1,5 +1,8 @@
 body {
+    background-color: #fff;
+    color: rgb(255, 3, 3);
+}
 
-    color: #000;
-
+h1 {
+   font-size: 40px; 
 }
